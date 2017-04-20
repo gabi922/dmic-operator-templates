@@ -11,7 +11,7 @@
             <outputDirectory>org/dmic/outputconnector/{connectorname}</outputDirectory>
         </fileSet>
         <fileSet>
-            <directory>/</directory>
+            <directory></directory>
             <includes>
                 <include>pom.xml</include>
             </includes>

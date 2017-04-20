@@ -11,7 +11,7 @@
             <outputDirectory>org/dmic/operator/{operatorname}</outputDirectory>
         </fileSet>
         <fileSet>
-            <directory>/</directory>
+            <directory></directory>
             <includes>
                 <include>pom.xml</include>
             </includes>
